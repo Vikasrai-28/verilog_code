@@ -1,0 +1,199 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/18.1
+vadder8bit
+!s110 1748263541
+!i10b 1
+!s100 DBC8E<4nacNgRFG`J5I=m1
+I3Z_a3gd=d?g^OhSoSkEl>0
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dC:/Users/vikas/Downloads/verilog code/sim
+w1748263019
+8C:/Users/vikas/Downloads/verilog code/adder8bit.v
+FC:/Users/vikas/Downloads/verilog code/adder8bit.v
+L0 1
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1748263541.000000
+!s107 C:/Users/vikas/Downloads/verilog code/adder8bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/vikas/Downloads/verilog code/adder8bit.v|
+!i113 1
+Z3 o-work work
+Z4 tCvgOpt 0
+vbitwise_operators
+!s110 1748227531
+!i10b 1
+!s100 LX_MNa7aE=VPPc1SZa@SR2
+IgAV<NIZe]9;jcWX@PE]6Y2
+R0
+R1
+w1748227477
+8C:/Users/vikas/Downloads/verilog code/bitwise_operators.v
+FC:/Users/vikas/Downloads/verilog code/bitwise_operators.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1748227531.000000
+!s107 C:/Users/vikas/Downloads/verilog code/bitwise_operators.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/vikas/Downloads/verilog code/bitwise_operators.v|
+!i113 1
+R3
+R4
+veasy_vectors_example
+!s110 1748225833
+!i10b 1
+!s100 UBS_eiC[:d9XbW`DT8NgM3
+IZj1Rahe@;YE;MRTQz8R::2
+R0
+R1
+w1748225396
+8C:/Users/vikas/Downloads/verilog code/easy_vectors_example.v
+FC:/Users/vikas/Downloads/verilog code/easy_vectors_example.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1748225833.000000
+!s107 C:/Users/vikas/Downloads/verilog code/easy_vectors_example.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/vikas/Downloads/verilog code/easy_vectors_example.v|
+!i113 1
+R3
+R4
+veasy_verilog_example
+!s110 1748187451
+!i10b 1
+!s100 _D:4M2Z[[o647me5zTSk]1
+IQfKae=z2gFi9N8zZ:nC=80
+R0
+R1
+w1748186704
+8C:/Users/vikas/Downloads/verilog code/easy_verilog_example.v
+FC:/Users/vikas/Downloads/verilog code/easy_verilog_example.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1748187451.000000
+!s107 C:/Users/vikas/Downloads/verilog code/easy_verilog_example.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/vikas/Downloads/verilog code/easy_verilog_example.v|
+!i113 1
+R3
+R4
+vhello_world
+!s110 1748183470
+!i10b 1
+!s100 3D9E@JL]CB7bDQAjgAkZ;1
+ICaFf?S@WZEnoR:0z2_FFk2
+R0
+R1
+w1748183077
+8C:/Users/vikas/Downloads/verilog code/hello_world.v
+FC:/Users/vikas/Downloads/verilog code/hello_world.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1748183470.000000
+!s107 C:/Users/vikas/Downloads/verilog code/hello_world.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/vikas/Downloads/verilog code/hello_world.v|
+!i113 1
+R3
+R4
+vliteral_values
+!s110 1748223661
+!i10b 1
+!s100 U8bb2b]o[W59DRI4=34oQ0
+I4Eln5moiSgL65dZAEgk]c3
+R0
+R1
+w1748223408
+8C:/Users/vikas/Downloads/verilog code/literal_values.v
+FC:/Users/vikas/Downloads/verilog code/literal_values.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1748223661.000000
+!s107 C:/Users/vikas/Downloads/verilog code/literal_values.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/vikas/Downloads/verilog code/literal_values.v|
+!i113 1
+R3
+R4
+vmyfirst_testbench
+!s110 1748263588
+!i10b 1
+!s100 f7oXh`_XYfc5?@JlMV:OP3
+IUNTdH7_0En=A7f_bdAOLo3
+R0
+R1
+w1748263565
+8C:/Users/vikas/Downloads/verilog code/myfirst_testbench.v
+FC:/Users/vikas/Downloads/verilog code/myfirst_testbench.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1748263588.000000
+!s107 C:/Users/vikas/Downloads/verilog code/myfirst_testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/vikas/Downloads/verilog code/myfirst_testbench.v|
+!i113 1
+R3
+R4
+vsum_product
+!s110 1748186106
+!i10b 1
+!s100 ?GQd<4lUDg5AVdPan=7aX3
+Ih4R_@V5Y?<^?DiW8CEO8U0
+R0
+R1
+w1748185898
+8C:/Users/vikas/Downloads/verilog code/sum_product.v
+FC:/Users/vikas/Downloads/verilog code/sum_product.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1748186106.000000
+!s107 C:/Users/vikas/Downloads/verilog code/sum_product.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/vikas/Downloads/verilog code/sum_product.v|
+!i113 1
+R3
+R4
+vwaveforms
+!s110 1748264939
+!i10b 1
+!s100 >:^PL46B@IUgV@4Imj<^A2
+InF;;;;c43SX@mkMRnQ;:92
+R0
+R1
+w1748264916
+8C:/Users/vikas/Downloads/verilog code/waveforms.v
+FC:/Users/vikas/Downloads/verilog code/waveforms.v
+L0 3
+R2
+r1
+!s85 0
+31
+!s108 1748264939.000000
+!s107 C:/Users/vikas/Downloads/verilog code/waveforms.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/vikas/Downloads/verilog code/waveforms.v|
+!i113 1
+R3
+R4

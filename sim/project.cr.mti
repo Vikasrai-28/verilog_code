@@ -1,0 +1,15 @@
+{C:/Users/vikas/Downloads/verilog code/hello_world.v} {1 {vlog -work work -stats=none {C:/Users/vikas/Downloads/verilog code/hello_world.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module hello_world
+
+Top level modules:
+	hello_world
+
+} {} {}} {C:/Users/vikas/Downloads/verilog code/easy_verilog_example.v} {1 {vlog -work work -stats=none {C:/Users/vikas/Downloads/verilog code/easy_verilog_example.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module easy_verilog_example
+
+Top level modules:
+	easy_verilog_example
+
+} {} {}}
